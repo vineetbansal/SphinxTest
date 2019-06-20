@@ -21,6 +21,7 @@ Welcome to SphinxTest's documentation!
    alpha
    beta
    modules
+   aspyre
 
 Indices and tables
 ==================
